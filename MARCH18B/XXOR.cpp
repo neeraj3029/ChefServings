@@ -15,38 +15,30 @@ int main() {
         cin >> b[i];
     }
  
-    for(long i=0;i<q;i++) {
-        cin>>l>>r;
+    for( long i=0 ; i<q ; i++ ) {
+        cin >> l >> r;
         long z = 0;
         long exp = 1;
-       long long sub = 0;
+       	long long sub = 0;
  
  
         //printf("len = %ld ",len);
         while (z < 31) {
  
             long u=0;long d=0;
-            for (long j = l - 1; j < r; j++)
+            for (long j = l - 1 ; j < r ; j++)
  
             {
  
-                ((b[j]&exp)==0)?d--:d++;
+                ( (b[j]&exp) == 0 )? d-- : d++;
  
             }
  
             if(d<0)
-                sub+=exp;
- 
- 
- 
- 
- 
+                sub+=exp; 
             exp*=2;
             z++;
- 
- 
-        }
- 
+        } 
         cout<<sub<<endl;
     }
 } 
