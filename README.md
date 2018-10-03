@@ -8,3 +8,4 @@ It contains code for competitions after March.
 
 ## Contribute? :thinking:
 Clone the repo, commit and push, make a new branch with the name of the feature open a pull request :smile: 
+Make sure you mention the name of the author of the solution as a comment within the code. 
