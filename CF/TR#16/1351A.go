@@ -7,7 +7,7 @@
 package main
 
 import "fmt"
-
+r
 func main() {
 	var t int
 	fmt.Scanf("%d\n", &t)
