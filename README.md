@@ -1,6 +1,6 @@
 # ChefServings :tophat:
 This is my collection of successful submissions of Codechef's and Codeforces's Competitive Competitions.
-Solutions to recent CodeChef challenges in program langugage supported by the platforms.  
+Solutions to any recent challenges in programming langugages supported by the platforms. Preferred languages are Go and C++.
 
 Visit my profiles here \
 [CodeChef](www.codechef.com/users/deadpo0l)
