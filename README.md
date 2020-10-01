@@ -2,7 +2,7 @@
 This is my collection of successful submissions of Codechef's and Codeforces's Competitive Competitions.
 Solutions to any recent challenges in programming langugages supported by the platforms. Preferred languages are Go and C++.
 
-Visit my profiles here \
+Visit my profiles here
 [CodeChef](www.codechef.com/users/deadpo0l)
 [Codeforces](https://codeforces.com/profile/claymore) 
 
