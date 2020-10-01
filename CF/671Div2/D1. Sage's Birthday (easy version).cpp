@@ -69,7 +69,6 @@ void pb_18(){
 	#endif
 
 	int t=1;
-	// cin>>t;
 	while(t--)	solve();
 }
 
@@ -81,6 +80,6 @@ int32_t main(){
 
 /******************
 
-	author- cybertron00
+	author- pb_18
 
 ******************/
